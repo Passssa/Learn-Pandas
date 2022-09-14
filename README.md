@@ -24,7 +24,7 @@
   
   Задание 7. Выведите на экран все различные значения из столбца lunch.
   
-  Задание 8. Переименуйте колонку "parental level of education" в "education", а "test preparation course" в "test preparation" с помощью метода pandas rename. Зафиксируем минимальный балл для сдачи экзамена
+  Задание 8. Переименуйте колонку "parental level of education" в "education", а "test preparation course" в "test preparation" с помощью метода pandas rename. 
   
   Задание 9. Ответьте на вопросы:
   
